@@ -8,9 +8,11 @@ I'm Lorrana Flores, a bioinformatician with a background in biotechnology. I hav
 - Currently pursuing a Ph.D. in the same program.
 
 💡 Script Development:
+
 Throughout my Master's and Ph.D., I have developed several scripts to facilitate data analysis and extract meaningful information from complex datasets. 
 
 🔬 Data Science Training:
+
 In addition to my academic pursuits, I am also honing my skills as a Data Scientist through the Data Science Academy's Data Science training program. 📊
 
 ✉️  Feel free to explore and use my scripts as a resource. If you have any questions, collaboration ideas, or just want to connect, feel free to reach out. Let's advance our understanding of biology together! 🌟
