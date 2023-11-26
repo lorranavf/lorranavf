@@ -17,6 +17,12 @@ Throughout my Master's and Ph.D., I have developed several scripts to facilitate
 
 In addition to my academic pursuits, I am also honing my skills as a Data Scientist through the Data Science Academy's Data Science training program.
 
-Feel free to explore and use my scripts as a resource. If you have any questions, collaboration ideas, or just want to connect, feel free to reach out. Let's advance our understanding of biology together! 🌟
+#### 🌟 Let's advance our understanding of biology together! 
+
+Feel free to explore and use my scripts as a resource. 
+
+If you have any questions, collaboration ideas, or just want to connect, feel free to reach out. 
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lorranaflores/)
 
 Thank you for stopping by! Happy coding! 💻😄
